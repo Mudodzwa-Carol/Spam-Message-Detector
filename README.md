@@ -39,15 +39,12 @@ The model was improved by combining **SMS data** with **email data**, allowing i
 
 ---
 
-## 📂 Project Structure
-
-Spam-Message-Detector/
-│
-├── spam_detector.py # Main script
-├── spam.csv # SMS dataset
-├── email_dataset/ # Email dataset (folders 1 = ham, 2 = spam)
-├── requirements.txt
-└── README.md
+📂 Spam-Message-Detector/
+    ├── spam_detector.py        # Main script
+    ├── spam.csv                # SMS dataset
+    ├── email_dataset/          # Email dataset (folders 1 = ham, 2 = spam)
+    ├── requirements.txt
+    └── README.md
 
 ## ⚙️ Installation & Setup
 
